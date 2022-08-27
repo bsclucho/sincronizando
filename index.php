@@ -1,3 +1,3 @@
 <?php   
-echo "solucionando conflicto";
+echo "solucionando conflicto cambio en brach main";
 ?>
